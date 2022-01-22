@@ -1,0 +1,1 @@
+Much of the code within main.c is irrelevant complex for a simple 3 by 3 game, the idea is to extend the board and forming a game like Gomoku (4 in a row)
