@@ -1,0 +1,21 @@
+Console Program in C++
+
+Included within this folder:
+
+main.cpp
+  the console application
+  
+improved main.cpp
+  slightly reworked main.cpp which is about 68% faster (tested both on the first 3 million pos integers)
+ 
+images of results running the program through the first million positive integers
+  (sorry about the poorly thoughtout screenshots with literally no titles or ledgends)
+
+
+
+I may revisit this program later on and refine the searching algorithm, 
+as currently the program is searching through all values up to the desired number which is oviously inefficient
+
+Next step would be to impliment within the algorithm, to ignore all values which include 2,4,6,8,0 as the placevalue last digit 
+(instead of asking program to compute whether the number is even, as that would be another waste of memory)
+(and 5 when there exists more than 1 digit in the number)
