@@ -1,4 +1,4 @@
-[] set up repo
+set up repo
 
 
 This is a concept repo for a university assignment
